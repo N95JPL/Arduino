@@ -26,8 +26,8 @@ void setup() {
   pinMode(5, INPUT_PULLUP);
   pinMode(6, INPUT_PULLUP);
   pinMode(7, INPUT_PULLUP);
-  pinMode(8, INPUT_PULLUP); //Broken
-  pinMode(9, INPUT_PULLUP); //Broken
+  pinMode(8, INPUT_PULLUP); //Broken switch - need replacement
+  pinMode(9, INPUT_PULLUP); //Broken switch - need replacement
   pinMode(10, INPUT_PULLUP);
   pinMode(14, INPUT_PULLUP);
   pinMode(15, INPUT_PULLUP);
